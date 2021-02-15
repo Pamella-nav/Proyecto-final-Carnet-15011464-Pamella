@@ -1,0 +1,28 @@
+Algoritmo
+
+Empresa de Seguros TK-U 
+
+
+1. La empresa recibe llamada/ o correo electronico de un posible cliente/asegurado solicitando la cotizacion.
+2. Se le envia el formulario al cliente /Asegurado para que complete sus datos personales.
+3.El cliente /Asegurado llena el formulario con los siguientes datos, estado civil, si tiene hijos, edad,nombre completo. 
+4.Se verifica que la edad sea Mayor de 18 años de no serlo se le indica que no puede aplicar al seguro hasta cumplir la edad.
+
+5.Si tiene  entre 18 años y 25 años y no tiene hijos, se le envia la cotizacion con el precio base de Q2,000 por medio de correo electronico.
+6.Si tienen entre 18 años y 25 años y tiene esposa pero no tienen hijos se le envia cotizacion con el siguiente total:  precio base Q2,000 + 10% por edad del asegurado + la edad del conyugue un total de Q2,400
+7.Si tienen entre 18 años y 25 años de edad 2  hijos y esposa/o (tiene ese rango de edad) se le envia la cotizacion con el siguiente total:  10% por edad + 10% de la edad de la esposo/a + 20% por cada hijo se le indica que el total sera :Q3,200.00
+8.Si tiene entre 18 años y 25 años de eadad con 2 hijos y esposa/o  con edad de 26 años se le envia la cotizacion con el siguiente total:  10% por edad del asegurado + 20 % de la esposa/o + 20% por cada hijo el total con los recardos sera el siguiente: Q3,400.00
+
+
+9.Si tienen entre 25 años y 49 años de edad sin hijos, sin esposa , se le enviara la cotizacion con el total de: precio base Q2,000 +  20% por la edad el total sera el siguiente : Q2,400
+10.Si tiene entre 25 años y  49 años de edad con esposa pero sin hijos, se le envia la cotizacion con el siguiente total:precio base Q2,000 + 20% edad + 20% de la edad del conyugue con un total de :Q2,800.00
+11.Si tiene entre 25 años y 49 años ed edad con esposo/a (tiene ese rango de edad), con dos hijos, se le envia la cotizacion con el siguiente total : precio base Q2,000 + 20% de edad+ 20% de la edad del conyugue + 20% de los dos hijos  con un total de Q3,600.00.
+12.Si tienen entre 25 años y 49 años de edad con hijos y esposa/o tiene 51 años se le envia la cotizacion con el siguiente total: precio base Q2,000 + 20 % de edad + 30 % de edad conyugue + 20 % de los dos hijos : el total Q3,800.00
+
+13..Si tiene entre 50 años en adelante sin hijos y sin esposa se le envia la cotizacion siguiente : precio base Q2,000 +  30% por la edad que es un total de :Q2,600.00
+14.Si tiene entre 50 años en adelante con esposa pero sin hijos se le envia la cotizacion siguiente : precio base Q2,000 + 30% por la edad + el 30% de la edad del conyugue con un total de : Q3,200.00
+15.Si tiene entre 50 años en adelante con esposa/o (tiene ese rango de edad) , 2 hijos se le envia la cotizacion siguiente : precio base Q2,000 + 30 % por la edad + el 30 % de la edad del conyugue + el 20 % por cada hijo con untotal de :Q4,000.00.
+
+16.Se realiza el calculo y se le muestra el calculo al cliente con el total de los recargos + precio base. 
+  
+  
